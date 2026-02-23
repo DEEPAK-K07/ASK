@@ -7,7 +7,7 @@ google coolab
 
 ## PROGRAM:
 ### ASK
-```
+```c
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -57,7 +57,7 @@ plt.tight_layout()
 plt.show()
 ```
 ### FSK:
-```
+```c
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
